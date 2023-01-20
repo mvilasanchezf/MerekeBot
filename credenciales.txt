@@ -1,0 +1,6 @@
+>-Credenciales de Google:
+mail: "mereketenbot@gmail.com"
+password: "mereke123#"
+>-Credenciales de Twitch:
+username: "merekebot"
+password: "mereke12321#"
